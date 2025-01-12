@@ -1,2 +1,2 @@
-# location-fields
-A lightweight plugin that allows for rapid deployment of location pages with a custom post type, taxonomies, and post meta.
+# offer-there
+A lightweight plugin that allows for rapid deployment of product and service pages for multiple locations with template-ready custom post meta.
